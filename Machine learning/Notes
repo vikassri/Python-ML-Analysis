@@ -1,0 +1,17 @@
+There are a large number of typical inductive learning problems. The primary difference between them is in
+what type of thing they’re trying to predict.
+
+Here are some examples:
+
+Regression: trying to predict a real value. For instance, predict the value of a stock tomorrow given its
+past performance. Or predict Alice’s score on the machine learning final exam based on her homework scores.
+
+Binary Classification: trying to predict a simple yes/no response. For instance, predict whether Alice will
+enjoy a course or not. Or predict whether a user review of the newest Apple product is positive or negative about the product.
+
+Multiclass Classification: trying to put an example into one of a num- ber of classes. For instance,
+predict whether a news story is about entertainment, sports, politics, religion, etc. Or predict whether a CS
+course is Systems, Theory, AI or Other.
+
+Ranking: trying to put a set of objects in order of relevance. For in- stance, predicting what order to
+put web pages in, in response to a user query. Or predict Alice’s ranked preferences over courses she hasn’t taken.

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86b3630-50d1-4ec6-9619-743302df5f90" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/.idea/dictionaries/vikas.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/Solr/SolrClient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/Sparkfuntions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/last10count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/mapping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/python_udf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/top10count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkKafkaCassandra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkKafkaStreamWindowing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkKafkaStreaming.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkRdd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkSql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkStreamWithWindowing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/SparkStreamingSolr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/StreamReader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkStreaming/kafkaReader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/DataFrame.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/DataFrameGroupby.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/ML-sample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/Rdd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/RddGroupBY.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/SparkSql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/compare/SparkSqlGroupBY.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/.idea/examples.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/aft_survival_regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/als_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/binarizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/bisecting_k_means_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/bucketizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/chisq_selector_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/count_vectorizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/cross_validator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/dataframe_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/dct_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/decision_tree_classification_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/decision_tree_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/elementwise_product_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/estimator_transformer_param_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/gaussian_mixture_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/generalized_linear_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/gradient_boosted_tree_classifier_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/gradient_boosted_tree_regressor_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/index_to_string_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/isotonic_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/kmeans_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/lda_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/linear_regression_with_elastic_net.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/logistic_regression_summary_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/logistic_regression_with_elastic_net.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/max_abs_scaler_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/min_max_scaler_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/multiclass_logistic_regression_with_elastic_net.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/multilayer_perceptron_classification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/n_gram_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/naive_bayes_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/normalizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/one_vs_rest_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/onehot_encoder_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/pca_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/pipeline_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/polynomial_expansion_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/quantile_discretizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/random_forest_classifier_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/random_forest_regressor_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/rformula_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/sql_transformer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/standard_scaler_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/stopwords_remover_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/string_indexer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/tf_idf_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/tokenizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/train_validation_split.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/vector_assembler_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/vector_indexer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/vector_slicer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/ml/word2vec_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/binary_classification_metrics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/bisecting_k_means_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/correlations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/correlations_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/decision_tree_classification_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/decision_tree_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/elementwise_product_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/fpgrowth_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/gaussian_mixture_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/gaussian_mixture_model.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/gradient_boosting_classification_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/gradient_boosting_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/hypothesis_testing_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/hypothesis_testing_kolmogorov_smirnov_test_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/isotonic_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/k_means_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/kernel_density_estimation_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/kmeans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/latent_dirichlet_allocation_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/linear_regression_with_sgd_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/logistic_regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/logistic_regression_with_lbfgs_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/multi_class_metrics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/multi_label_metrics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/naive_bayes_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/normalizer_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/power_iteration_clustering_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/random_forest_classification_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/random_forest_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/random_rdd_generation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/ranking_metrics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/recommendation_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/regression_metrics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/sampled_rdds.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/standard_scaler_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/stratified_sampling_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/streaming_k_means_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/streaming_linear_regression_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/summary_statistics_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/svm_with_sgd_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/tf_idf_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/word2vec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/mllib/word2vec_example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/als.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/avro_inputformat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/kmeans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/logistic_regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/pagerank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/parquet_inputformat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/pi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/sort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/status_api_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/transitive_closure.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/other/wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/datasource.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/hive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/streaming/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/streaming/structured_kafka_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/streaming/structured_network_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/sql/streaming/structured_network_wordcount_windowed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/direct_kafka_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/flume_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/hdfs_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/kafka_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/network_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/network_wordjoinsentiments.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/queue_stream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/recoverable_network_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/sql_network_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/examples/streaming/stateful_network_wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/cassandra/CassandraClient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/data/text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/hive/hiveClient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/kafka/KafkaClient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bigdata/mongodb/MongoClient.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../bigdata/Analysis/health_spending.csv" afterPath="$PROJECT_DIR$/../bigdata/data/health_spending.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../bigdata/SparkCode/__init__.py" afterPath="$PROJECT_DIR$/../bigdata/Solr/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/WordCount.py" afterPath="$PROJECT_DIR$/../bigdata/SparkCode/SparkCore/WordCount.py" />
+    </list>
+    <ignored path="ML-python.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ML-python$elasticSearch.coverage" NAME="elasticSearch Coverage Results" MODIFIED="1493356424244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Grab" />
+    <SUITE FILE_PATH="coverage/ML-python$insertEs.coverage" NAME="insertEs Coverage Results" MODIFIED="1495337805095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Grab" />
+    <SUITE FILE_PATH="coverage/ML-python$ML_Basics.coverage" NAME="ML Basics Coverage Results" MODIFIED="1491634998294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML-python$basics.coverage" NAME="basics Coverage Results" MODIFIED="1491641218349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML-python$Unittests_in_TrainsTests.coverage" NAME="Unittests in TrainsTests Coverage Results" MODIFIED="1495337928593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Train-Routes" />
+    <SUITE FILE_PATH="coverage/ML-python$first_model.coverage" NAME="first_model Coverage Results" MODIFIED="1493355360405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/ML-python$Basics.coverage" NAME="Basics Coverage Results" MODIFIED="1491639957766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ML-python$clock.coverage" NAME="clock Coverage Results" MODIFIED="1495338026471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../learning/OOps/clock" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ML-python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../learning/OOps/clock/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clock.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../learning/OOps/clock/clock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../bigdata" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ML Basics.py" />
+        <option value="$PROJECT_DIR$/Basics.py" />
+        <option value="$PROJECT_DIR$/Notes" />
+        <option value="$PROJECT_DIR$/Data/web_traffic.tsv" />
+        <option value="$PROJECT_DIR$/basics.py" />
+        <option value="$PROJECT_DIR$/models/first_model.py" />
+        <option value="$PROJECT_DIR$/../Grab/elasticSearch.py" />
+        <option value="$PROJECT_DIR$/../Other/elasticSearch.py" />
+        <option value="$PROJECT_DIR$/../Grab/insertEs.py" />
+        <option value="$PROJECT_DIR$/../Train-Routes/problem_one.py" />
+        <option value="$PROJECT_DIR$/../learning/OOps/clock/clock.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="23" />
+    <option name="width" value="1230" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clock" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ML-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pycharm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/anaconda/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Other" />
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clock">
+    <configuration default="false" name="first_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/first_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="elasticSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Grab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Grab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Other/elasticSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="insertEs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Grab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Grab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Grab/insertEs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TrainsTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Train-Routes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Train-Routes/problem_one.py" />
+      <option name="CLASS_NAME" value="TrainsTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../learning/OOps/clock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../learning/OOps/clock/clock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="ML-python" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ML-python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.first_model" />
+      <item index="1" class="java.lang.String" itemvalue="Python.elasticSearch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.insertEs" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TrainsTests" />
+      <item index="4" class="java.lang.String" itemvalue="Python.clock" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.clock" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TrainsTests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.insertEs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.elasticSearch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.first_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86b3630-50d1-4ec6-9619-743302df5f90" name="Default" comment="" />
+      <created>1491634183772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491634183772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TrainsTests - 2017.05.21 at 11h 37m 00s.xml">
+      <configuration name="Unittests in TrainsTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TrainsTests - 2017.05.21 at 11h 38m 48s.xml">
+      <configuration name="Unittests in TrainsTests" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="23" width="1230" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26178452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Other/elasticSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Grab/insertEs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/web_traffic.tsv" />
+    <entry file="file://$PROJECT_DIR$/models/first_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="25" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Grab/insertEs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/data/trains_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Other/elasticSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/lib/trains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/lib/towns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/lib/stops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/lib/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learning/OOps/attribute_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Train-Routes/problem_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="26" selection-end-line="142" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learning/OOps/clock/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learning/OOps/clock/clock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
